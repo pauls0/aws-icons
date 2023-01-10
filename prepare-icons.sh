@@ -109,3 +109,5 @@ find . -type d -name "*Icons*" -delete;
 replace_text_in_filename "AppIntegration" "ApplicationIntegration";
 replace_text_in_filename "InternetofThingsIoT" "IoTIoT";
 replace_text_in_filename "SecurityIdentityandCompliance" "SecurityIdentityCompliance";
+
+replace_text_in_filename_g " " "";
